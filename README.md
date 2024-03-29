@@ -1,1 +1,1 @@
-This pipeline uses a version of Yolov8 finetuned on DocLayNet. This is the recommended [version]([url](https://huggingface.co/DILHTWD/documentlayoutsegmentation_YOLOv8_ondoclaynet)). Other used libraries include: EasyOCR, LangChain, SpaCy, Gradio, and more.
+This pipeline uses a version of Yolov8 finetuned on DocLayNet. This is the recommended [version]([https://huggingface.co/DILHTWD/documentlayoutsegmentation_YOLOv8_ondoclaynet]). Other used libraries include: EasyOCR, LangChain, SpaCy, Gradio, and more.
